@@ -38,7 +38,7 @@
             <configuration>
                 <path>/Sonam</path>
                 <enableNaming>false</enableNaming>
-                <finalName>sonam.jar</finalName>
+                <finalName>vikram.jar</finalName>
                 <charset>utf-8</charset>
             </configuration>
         </execution>
