@@ -36,7 +36,7 @@
             </goals>
             <phase>package</phase>
             <configuration>
-                <path>/Sonam</path>
+                <path>/Vikram</path>
                 <enableNaming>false</enableNaming>
                 <finalName>vikram.jar</finalName>
                 <charset>utf-8</charset>
